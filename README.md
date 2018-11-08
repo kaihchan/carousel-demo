@@ -17,3 +17,6 @@ A vanilla ES6 image carousel
 - [es6-promise](https://github.com/stefanpenner/es6-promise)
 - [es6-shim](https://github.com/paulmillr/es6-shim)
 - [classList.js](https://github.com/eligrey/classList.js)
+
+## Credits
+Placeholder images powered by [placeholder.com](https://placeholder.com/)
